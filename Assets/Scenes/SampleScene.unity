@@ -4278,6 +4278,18 @@ PrefabInstance:
       propertyPath: m_Name
       value: Ball
       objectReference: {fileID: 0}
+    - target: {fileID: 2576631555509618826, guid: 6285a42ebba54ed4a92cd1bdc714ac25, type: 3}
+      propertyPath: m_Color.r
+      value: 0.044315934
+      objectReference: {fileID: 0}
+    - target: {fileID: 2576631555509618826, guid: 6285a42ebba54ed4a92cd1bdc714ac25, type: 3}
+      propertyPath: m_Color.g
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 2576631555509618826, guid: 6285a42ebba54ed4a92cd1bdc714ac25, type: 3}
+      propertyPath: m_Color.b
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 2576631555509618827, guid: 6285a42ebba54ed4a92cd1bdc714ac25, type: 3}
       propertyPath: m_LocalPosition.x
       value: 0

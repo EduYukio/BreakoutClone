@@ -6,7 +6,7 @@ using UnityEngine.SceneManagement;
 public class Ball : MonoBehaviour
 {
     public Rigidbody2D rb;
-    public float speed = 8;
+    public float speed = 15;
 
     void Awake()
     {
